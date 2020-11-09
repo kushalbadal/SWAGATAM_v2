@@ -23,11 +23,6 @@ body {
     text-transform: uppercase;
 }
 
-#map
-{
-    height: 250px;
-}
-
 @media(max-width: 991px) {
     #top .offer {
         margin-bottom: 10px;
@@ -253,6 +248,19 @@ body {
 
 .single {
     width: 290px;
+}
+
+/* ////////////////////////////////////////// */
+.panel-title {
+    display: inline;
+    font-weight: bold;
+}
+.checkbox.pull-right {
+    margin: 0;
+}
+
+.pl-ziro {
+    padding-left: 0px;
 }
 
 @media(max-width:768px) {

@@ -235,7 +235,7 @@ if(isset($_POST['submit'])){
     
     $get_ma = "select count(*) as total from hosts where host_title='$host_name'";
    $num=mysqli_query($con,$get_ma);
-   $nm=mysqli_fetch_object($num);;
+   $nm=mysqli_fetch_object($num);
     if ($nm->total==1) {
     move_uploaded_file($temp_name1,"../admin/product_images/$s_img1");
     move_uploaded_file($temp_name2,"../admin/product_images/$s_img2");

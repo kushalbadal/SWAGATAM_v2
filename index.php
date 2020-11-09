@@ -18,10 +18,10 @@
     <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
   </head>
   <body>
-    <header>
-      <video id="videoBG" autoplay muted loop>
+    <header style="background-image:linear-gradient(rgba(0,0,0,0.5) 5%,rgba(0,0,0,0.3)),url(Resources/FrontEnd/img/3.jpg); background-size:cover">
+      <!-- <video id="videoBG" autoplay muted loop>
         <source src="Resources/FrontEnd/img/visitNepal.mp4" type="video/mp4" />
-      </video>
+      </video> -->
       <nav class="navbar">
         <div class="row">
           <div class="logo">

@@ -188,7 +188,7 @@ include("includes/header.php");
 
                             </button><!-- btn btn-default Finish -->
 
-                            <a href="#" class="btn btn-danger">
+                            <a href="payment.php" class="btn btn-danger">
 
                                 Proceed Checkout <i class="fa fa-chevron-right"></i>
 

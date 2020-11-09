@@ -207,7 +207,7 @@
                     <h1>
                         SWAGATAM ADMIN
                     </h1>
-                    <h4>
+                    <h4 style="color:white;">
                         WHERE MAGIC HAPPENS
                     </h4>
                 </div>
